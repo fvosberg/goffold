@@ -1,0 +1,3 @@
+# {{ .CommandName }}
+
+Scaffolding by goffold
